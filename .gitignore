@@ -1,0 +1,13 @@
+.vscode
+Assets/Animation
+Assets/Background
+Assets/Characters
+Assets/Scenes
+Library
+.DS_Store
+obj
+Temp
+ProjectSettings
+Logs
+Packages
+UserSettings
